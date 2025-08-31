@@ -100,3 +100,39 @@ They help stakeholders and developers quickly understand system functionality, u
 - Help identify missing or redundant functionalities.
 - Serve as a foundation for detailed design and testing.
 
+---
+
+## Acceptance Criteria
+
+**Acceptance Criteria** define the conditions that a software product must satisfy to be considered complete and acceptable by the stakeholders. They provide a clear, testable specification that ensures both the development team and the client have a shared understanding of what “done” means for a feature. Well-defined acceptance criteria help prevent scope creep, misunderstandings, and ensure the product meets user expectations.
+
+### Importance of Acceptance Criteria
+- **Clarity:** Clearly communicates what a feature must achieve.
+- **Measurability:** Provides a basis for testing and validation.
+- **Alignment:** Ensures development aligns with business and user requirements.
+- **Quality Assurance:** Facilitates better QA testing and reduces post-release bugs.
+
+### Example: Checkout Feature in Booking Management System
+For the **Checkout** feature, the acceptance criteria could be:
+
+1. **Payment Processing:**
+   - The system must process payment successfully using supported payment methods (Credit Card, PayPal, or Wallet).  
+   - An error message must appear if the payment fails.  
+
+2. **Booking Confirmation:**
+   - After successful payment, a confirmation message with booking details must be displayed to the user.  
+   - A confirmation email must be sent to the user's registered email address.  
+
+3. **Data Validation:**
+   - Required fields (e.g., guest information, payment details) must be validated before submission.  
+   - Users must not be able to proceed if mandatory fields are empty or invalid.  
+
+4. **Security:**
+   - Payment information must be securely transmitted and stored according to industry standards (e.g., PCI DSS compliance).  
+
+5. **Usability:**
+   - Users must be able to cancel or modify the booking within the allowed time frame.  
+   - The checkout process should be completed within 3 minutes under normal network conditions.
+
+These criteria ensure the **Checkout feature** works as intended, meets user expectations, and aligns with business objectives.
+
