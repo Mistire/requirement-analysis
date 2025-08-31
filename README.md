@@ -36,6 +36,28 @@ Requirement Analysis is a critical phase in the SDLC because it ensures that sof
 4. **Better Quality Software:**  
    Helps ensure that the final product meets user expectations and business requirements, resulting in higher satisfaction and fewer defects.
 
+---
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities to ensure that the software system is well-defined and aligned with stakeholder expectations:
+
+- **Requirement Gathering:**  
+  Collecting information from stakeholders, users, and existing systems to understand their needs and expectations.
+
+- **Requirement Elicitation:**  
+  Engaging stakeholders through interviews, questionnaires, workshops, and observations to uncover both explicit and implicit requirements.
+
+- **Requirement Documentation:**  
+  Organizing and recording requirements in a structured format, such as SRS (Software Requirements Specification), for clarity and reference.
+
+- **Requirement Analysis and Modeling:**  
+  Refining and organizing requirements, identifying dependencies, and creating visual models (like use case diagrams or flowcharts) to better understand the system.
+
+- **Requirement Validation:**  
+  Ensuring that the documented requirements are complete, feasible, consistent, and aligned with business objectives through reviews and stakeholder feedback.
+
+
 5. **Facilitates Planning and Design:**  
    Detailed requirements guide architecture, design decisions, testing strategies, and project management throughout the SDLC.
 
