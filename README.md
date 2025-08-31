@@ -87,3 +87,16 @@ Non-functional requirements describe **how the system performs tasks**—constra
 - The user interface should be responsive and accessible on both desktop and mobile devices.
 - System uptime should be at least 99.9%.
 
+---
+
+## Use Case Diagrams
+
+Use Case Diagrams visually represent the interactions between **actors** (users or external systems) and the system itself. 
+They help stakeholders and developers quickly understand system functionality, user roles, and key processes.
+
+**Benefits of Use Case Diagrams:**
+- Provide a high-level overview of system functionality.
+- Improve communication between stakeholders and development teams.
+- Help identify missing or redundant functionalities.
+- Serve as a foundation for detailed design and testing.
+
